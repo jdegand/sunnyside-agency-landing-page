@@ -39,7 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- Grid
 
 
 ### What I learned
@@ -59,14 +59,14 @@ Users should be able to:
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) - Embedding Images
 - [W3](https://www.w3.org/WAI/tutorials/images/decorative/) - Images and Accessibility
 - [CSS Tricks](https://css-tricks.com/accessible-svgs/) - Accessible SVGs
-- [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
+- [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/) - CSS triangle
 - [HTML Color Codes](https://html-color-codes.info/colors-from-image/#) - Get color code from photo
-- [Stack Overflow](https://stackoverflow.com/questions/2481350/how-to-get-scrollbar-position-with-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/40871127/can-i-use-css-calc-within-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/44679794/position-fixed-on-chrome-mobile-causing-element-to-move-on-scroll-up-down)
-- [Content Square](https://contentsquare.com/blog/the-3-golden-rules-of-sticky-menu-navigation/)
-- [Stack Overflow](https://stackoverflow.com/questions/41446540/changing-the-position-of-div-on-scroll)
-- [Stack Overflow](https://stackoverflow.com/questions/52438288/using-vanilla-javascript-to-detect-scroll-to-help-make-change-to-navigation-css)
+- [Stack Overflow](https://stackoverflow.com/questions/2481350/how-to-get-scrollbar-position-with-javascript) - scrollbar position
+- [Stack Overflow](https://stackoverflow.com/questions/40871127/can-i-use-css-calc-within-javascript) - calc inside js
+- [Stack Overflow](https://stackoverflow.com/questions/44679794/position-fixed-on-chrome-mobile-causing-element-to-move-on-scroll-up-down) - position fixed issues
+- [Content Square](https://contentsquare.com/blog/the-3-golden-rules-of-sticky-menu-navigation/) - sticky nav rules
+- [Stack Overflow](https://stackoverflow.com/questions/41446540/changing-the-position-of-div-on-scroll) - scroll 
+- [Stack Overflow](https://stackoverflow.com/questions/52438288/using-vanilla-javascript-to-detect-scroll-to-help-make-change-to-navigation-css) - scroll
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - srcset
-- [Tutsplus](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
-- [Stack Overflow](https://stackoverflow.com/questions/45383042/reverse-order-of-columns-in-css-grid-layout)
+- [Tutsplus](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015) - responsive images
+- [Stack Overflow](https://stackoverflow.com/questions/45383042/reverse-order-of-columns-in-css-grid-layout) - reverse columns grid
